@@ -1,0 +1,21 @@
+012013  * 012613X SYSTEM 1/23/13 21:30:05     iSeries Timekeeper: Gilbert Public Schools     TIMECLK   
+                                                                  Pay Period  
+Emp#:     127535 CERTAIN, A JACOB     Badge:    127535From:         
+Options:  1=View  B=Brkdwn                               To:           
+Position:                                                 
+Opt     Date     In     Out     Hours   Sch  Pcd  Ap Jobcode               Notes
+  MO  1/21/13 1200A             8.00        HOLCO 0 704                      C 
+  TU  1/22/13  900A U  545P     8.25              0 704                   A    
+  WE  1/23/13  900A U  530P     8.00              0 704                   A    
+                           
+                
+    
+                                        
+                                     
+    
+                
+    
+                                                     
+                                                                   More...
+HOLCO   8.00  REG    16.25                                             Total
+                                                                24.25 
