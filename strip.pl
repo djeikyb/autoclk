@@ -6,5 +6,6 @@ use strict;
 while (<>)
 {
   s/\e\[?.*?[\@-~]//g;
+  s///g;
   print;
 }
