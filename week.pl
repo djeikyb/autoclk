@@ -44,20 +44,10 @@ sub unescape()
 
 sub getRange()
 {
-    #my $now = DateTime->now(time_zone=>$tz);
-
-    my $now = now DateTime (time_zone=>$tz);
+    my $now = DateTime->now(time_zone=>$tz);
 
     my $monday = $now->clone()->subtract(days => ($now->wday - 1));
     my $sunday = $now->clone()->add(days => (7 - $now->wday));
-
-    #my $monday = clone
-
-    #subtract $monday (days => 7);
-    #subtract $sunday (days => 7);
-
-    #$monday->subtract(days => 7);
-    #$sunday->subtract(days => 7);
 
     my $pattern = "MMddyy";
 
